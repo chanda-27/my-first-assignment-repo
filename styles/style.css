@@ -1,0 +1,27 @@
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.first-LOGO{
+    font-weight:bold;
+    font-size:34;
+    color:#4E47FF;
+}
+
+a button{
+    font-weight:bold;
+    font-size:16px;
+    background-color:#4E47FF;
+    color:#FFFFFF;
+    padding:12px 36px;
+}
