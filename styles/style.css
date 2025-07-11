@@ -9,6 +9,7 @@
     padding:0;
     box-sizing:border-box;
 }
+
 .main-header{
     background-image: url(../images/Hero-bg.png);
     padding:50px 0px;
@@ -169,7 +170,7 @@ input{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-bottom: 60px;
+    padding: 150px 0px;
 
 }
 .footer-logo{
@@ -193,3 +194,22 @@ li{
 .text-area{
     width: 100%;
 }
+.review{
+    background-color: gray;
+    padding: 40px 15px;
+    border-radius: 10px;
+}
+.contact-des h1{
+    font-size: 68px;
+}
+input{
+    margin-bottom: 20px;
+}
+button{
+    transition: .2s all;
+    cursor: pointer;
+}
+button:hover{
+    background-color: yellow;
+}
+
