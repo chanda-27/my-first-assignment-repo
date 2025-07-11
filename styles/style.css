@@ -154,3 +154,42 @@ input{
     padding: 10px 20px;
     width: 300px;
 }
+.last-button{
+    font-size: 16px;
+    font-weight: bold;
+    color:#FFFFFF;
+    background-color:rgba(78, 71, 255, 1);
+    padding:10px 60px ;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
+.main-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 60px;
+
+}
+.footer-logo{
+    margin-left: 115px;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(78, 71, 255, 1);
+}
+ul{
+    display: flex;
+    gap: 20px;
+    
+}
+ a{
+    
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.text-area{
+    width: 100%;
+}
